@@ -1,0 +1,7 @@
+1 - Em um projetinho totalmente em branco eu utilizo o comando npm init. Com esse comando 
+será apresentado a mim um wizard para realizar as devidas seleções para que eu inicialize o 
+arquivo package.json;
+2 - Outra forma para instalar uma dependencia. (quando eu executar o comando para instalar uma dependencia ele ira criar
+o arquivo nome_modules no mesmo nivel onde estou digitando o comando);
+3 - Para inicializar o arquivo: npm i. Nele fica as descrições de todos os arquivos
+4 - Com ele eu posso instalar o axios: npm i --salve axios
