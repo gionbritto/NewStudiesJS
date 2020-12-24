@@ -11,5 +11,5 @@ console.log(contadorA.valor, contatodB.valor)
 contatorC.inc()
 contatorC.inc()
 console.log(contatorC.valor, contatorD.valor)
-console.log('teste')
+
 

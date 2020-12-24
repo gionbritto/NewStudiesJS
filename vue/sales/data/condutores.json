@@ -1,0 +1,303 @@
+[
+    {
+        "_id": "5f8dc29200f95b0001e80c79",
+        "DadosCadastro": {
+            "UsuarioId": "5f6c9b529bb0870001830578",
+            "NomeUsuario": "Michel de Biazi Esteves",
+            "DataOperacao": {
+                "$date": {
+                    "$numberLong": "1603125906838"
+                }
+            }
+        },
+        "Numero": {
+            "$numberInt": "1"
+        },
+        "Condutor": {
+            "CondutorId": "5f8d77394271ab000183eb28",
+            "Nome": "Anderson Yuzo Mino"
+        },
+        "Multa": false,
+        "GrupoOcorrencia": {
+            "GrupoId": "5f805bddaaf6fc00016b9f96",
+            "Nome": "Falta de EPI"
+        },
+        "HouveVitimas": false,
+        "Tipo": {
+            "TipoOcorrenciaId": "5f805bddaaf6fc00016b9f98",
+            "Descricao": "Bota",
+            "Peso": {
+                "$numberDecimal": "10"
+            },
+            "PontosCnh": {
+                "$numberInt": "0"
+            }
+        },
+        "Peso": {
+            "$numberDecimal": "10"
+        },
+        "PesoCnh": {
+            "$numberInt": "0"
+        },
+        "Data": {
+            "$date": {
+                "$numberLong": "1602817200000"
+            }
+        },
+        "Expurgada": false,
+        "Observacao": "Motorista estava sem bota na operção",
+        "MedidasTomadas": "Foi solicitado sua retirada do patio",
+        "Baixada": false
+    },
+
+    
+    {
+        "_id": "5fa1ad3dbe1a6d000126e214",
+        "DadosCadastro": {
+            "UsuarioId": "5f6c9b529bb0870001830578",
+            "NomeUsuario": "Michel de Biazi Esteves",
+            "DataOperacao": {
+                "$date": {
+                    "$numberLong": "1604431165158"
+                }
+            }
+        },
+        "Numero": {
+            "$numberInt": "2"
+        },
+        "Condutor": {
+            "CondutorId": "5f8d773a4271ab000183eb31",
+            "Nome": "Paulo Henrique deveza Rodrigues"
+        },
+        "Multa": false,
+        "GrupoOcorrencia": {
+            "GrupoId": "5f805bddaaf6fc00016b9f91",
+            "Nome": "Reclamações Execução"
+        },
+        "HouveVitimas": false,
+        "Tipo": {
+            "TipoOcorrenciaId": "5f805bddaaf6fc00016b9f94",
+            "Descricao": "Informação Errada",
+            "Peso": {
+                "$numberDecimal": "1"
+            },
+            "PontosCnh": {
+                "$numberInt": "0"
+            }
+        },
+        "Peso": {
+            "$numberDecimal": "1"
+        },
+        "PesoCnh": {
+            "$numberInt": "0"
+        },
+        "Data": {
+            "$date": {
+                "$numberLong": "1604372400000"
+            }
+        },
+        "Expurgada": false,
+        "Observacao": "Motorista informou Ocorrência errada",
+        "MedidasTomadas": "Informação enviada ao Carrier",
+        "Baixada": false
+    },
+    {
+        "_id": "5fa1ad7bbe1a6d000126e215",
+        "DadosCadastro": {
+            "UsuarioId": "5f6c9b529bb0870001830578",
+            "NomeUsuario": "Michel de Biazi Esteves",
+            "DataOperacao": {
+                "$date": {
+                    "$numberLong": "1604431227549"
+                }
+            }
+        },
+        "Numero": {
+            "$numberInt": "3"
+        },
+        "Condutor": {
+            "CondutorId": "5f8d773a4271ab000183eb31",
+            "Nome": "Paulo Henrique deveza Rodrigues"
+        },
+        "Multa": false,
+        "GrupoOcorrencia": {
+            "GrupoId": "5f805bddaaf6fc00016b9f91",
+            "Nome": "Reclamações Execução"
+        },
+        "HouveVitimas": false,
+        "Tipo": {
+            "TipoOcorrenciaId": "5f805bddaaf6fc00016b9f94",
+            "Descricao": "Informação Errada",
+            "Peso": {
+                "$numberDecimal": "1"
+            },
+            "PontosCnh": {
+                "$numberInt": "0"
+            }
+        },
+        "Peso": {
+            "$numberDecimal": "1"
+        },
+        "PesoCnh": {
+            "$numberInt": "0"
+        },
+        "Data": {
+            "$date": {
+                "$numberLong": "1604372400000"
+            }
+        },
+        "Expurgada": false,
+        "Observacao": "Informação Incorreta",
+        "MedidasTomadas": "Carrier foi informada",
+        "Baixada": false
+    },
+    {
+        "_id": "5fa1ada6be1a6d000126e216",
+        "DadosCadastro": {
+            "UsuarioId": "5f6c9b529bb0870001830578",
+            "NomeUsuario": "Michel de Biazi Esteves",
+            "DataOperacao": {
+                "$date": {
+                    "$numberLong": "1604431270955"
+                }
+            }
+        },
+        "Numero": {
+            "$numberInt": "4"
+        },
+        "Condutor": {
+            "CondutorId": "5f8d773a4271ab000183eb31",
+            "Nome": "Paulo Henrique deveza Rodrigues"
+        },
+        "Multa": false,
+        "GrupoOcorrencia": {
+            "GrupoId": "5f805bddaaf6fc00016b9f91",
+            "Nome": "Reclamações Execução"
+        },
+        "HouveVitimas": false,
+        "Tipo": {
+            "TipoOcorrenciaId": "5f805bddaaf6fc00016b9f94",
+            "Descricao": "Informação Errada",
+            "Peso": {
+                "$numberDecimal": "1"
+            },
+            "PontosCnh": {
+                "$numberInt": "0"
+            }
+        },
+        "Peso": {
+            "$numberDecimal": "1"
+        },
+        "PesoCnh": {
+            "$numberInt": "0"
+        },
+        "Data": {
+            "$date": {
+                "$numberLong": "1604372400000"
+            }
+        },
+        "Expurgada": false,
+        "Observacao": "Informação da ocorrência errada",
+        "MedidasTomadas": "Enviado ao Carrier",
+        "Baixada": false
+    },
+    {
+        "_id": "5fa1add3be1a6d000126e217",
+        "DadosCadastro": {
+            "UsuarioId": "5f6c9b529bb0870001830578",
+            "NomeUsuario": "Michel de Biazi Esteves",
+            "DataOperacao": {
+                "$date": {
+                    "$numberLong": "1604431315064"
+                }
+            }
+        },
+        "Numero": {
+            "$numberInt": "5"
+        },
+        "Condutor": {
+            "CondutorId": "5f8d773a4271ab000183eb31",
+            "Nome": "Paulo Henrique deveza Rodrigues"
+        },
+        "Multa": false,
+        "GrupoOcorrencia": {
+            "GrupoId": "5f805bddaaf6fc00016b9f91",
+            "Nome": "Reclamações Execução"
+        },
+        "HouveVitimas": false,
+        "Tipo": {
+            "TipoOcorrenciaId": "5f805bddaaf6fc00016b9f94",
+            "Descricao": "Informação Errada",
+            "Peso": {
+                "$numberDecimal": "1"
+            },
+            "PontosCnh": {
+                "$numberInt": "0"
+            }
+        },
+        "Peso": {
+            "$numberDecimal": "1"
+        },
+        "PesoCnh": {
+            "$numberInt": "0"
+        },
+        "Data": {
+            "$date": {
+                "$numberLong": "1604372400000"
+            }
+        },
+        "Expurgada": false,
+        "Observacao": "Informação da ocorrência errada",
+        "MedidasTomadas": "carrier informado",
+        "Baixada": false
+    },
+    {
+        "_id": "5fb2e96ccfdc1500015957d0",
+        "DadosCadastro": {
+            "UsuarioId": "5fa1aeb6bcd216000157e9e9",
+            "NomeUsuario": "Eron Souza",
+            "DataOperacao": {
+                "$date": {
+                    "$numberLong": "1605560684958"
+                }
+            }
+        },
+        "Numero": {
+            "$numberInt": "23"
+        },
+        "Condutor": {
+            "CondutorId": "5f7b0f3350bb310001ee04b7",
+            "Nome": "ANDRE DE ALMEIDA TELES"
+        },
+        "Multa": false,
+        "GrupoOcorrencia": {
+            "GrupoId": "sancao",
+            "Nome": "Sanção Disciplinar"
+        },
+        "HouveVitimas": false,
+        "Tipo": {
+            "TipoOcorrenciaId": "advertencia_escrita_grave",
+            "Descricao": "Advertência Escrita Grave",
+            "Peso": {
+                "$numberDecimal": "0"
+            },
+            "PontosCnh": {
+                "$numberInt": "0"
+            }
+        },
+        "Peso": {
+            "$numberDecimal": "0"
+        },
+        "PesoCnh": {
+            "$numberInt": "0"
+        },
+        "Data": {
+            "$date": {
+                "$numberLong": "1605495600000"
+            }
+        },
+        "Expurgada": false,
+        "Observacao": "O Motorista se nega a fazer o check List",
+        "Baixada": false
+    }
+]

@@ -1,3 +1,9 @@
+UPDATING YOUR BRANCH FROM MASTER:
+  git checkout master
+  git pull
+  git checkout your_branch
+  git merge master
+
 https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 Example:
 1 - Do some work on a website.
@@ -174,3 +180,11 @@ Conflicts:
 If you think it would be helpful to others looking at this merge in the future, you can modify this 
 commit message with details 
 about how you resolved the merge and explain why you did the changes you made if these are not obvious.
+
+===============================================================================
+Para subir com o branch para o servidor
+git push --set-upstream origin featureTest
+===============================================================================
+To delete a remote branch, we do not use the "git branch" command - but instead 
+"git push" with the "--delete" flag:
+$ git push origin --delete featureName
